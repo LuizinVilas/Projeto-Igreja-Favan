@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #8B6F4E;      /* Earthy Brown */
+  --color-secondary: #F7F0D7;    /* Warm Beige */
+  --color-accent: #A7E8D6;       /* Soft Green */
+  --color-highlight: #FF9F91;    /* Muted Coral */
+  --color-text: #333333;         /* Dark Gray */
+  --color-white: #FFFFFF;        /* Pure White */
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--color-text);
+  background-color: var(--color-white);
+  margin: 0;
+  padding: 0;
+}
+
+.page-transition {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.btn-primary {
+  @apply bg-primary hover:bg-primary/90 text-white font-semibold py-2 px-6 rounded-md transition-all duration-300 shadow-sm;
+}
+
+.btn-secondary {
+  @apply bg-accent hover:bg-accent/80 text-primary font-semibold py-2 px-6 rounded-md transition-all duration-300 shadow-sm;
+}
+
+.btn-outline {
+  @apply border-2 border-primary text-primary hover:bg-primary/10 font-semibold py-2 px-6 rounded-md transition-all duration-300;
+}
+
+.section {
+  @apply py-16 px-4 md:px-8;
+}
+
+.container-custom {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg;
+}
+
+.form-input {
+  @apply w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary;
+}
+
+.form-label {
+  @apply block text-sm font-medium text-gray-700 mb-1;
+}
+
+.nav-link {
+  @apply text-white hover:text-accent transition-colors duration-300;
+}
+
+.nav-link.active {
+  @apply text-accent font-medium;
+}
+
+.devotional-card {
+  @apply bg-secondary/50 p-6 rounded-lg shadow-sm border-l-4 border-primary;
+}
+
+.event-card {
+  @apply bg-white border border-gray-100 p-6 rounded-lg shadow-sm transition-all duration-300 hover:shadow-md hover:border-accent;
+}

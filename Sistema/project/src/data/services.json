@@ -1,0 +1,72 @@
+[
+  {
+    "id": "service-1",
+    "title": "Culto de Domingo",
+    "date": "2025-05-04",
+    "time": "10:00",
+    "description": "Culto da manhã com Santa Ceia"
+  },
+  {
+    "id": "service-2",
+    "title": "Culto de Domingo",
+    "date": "2025-05-04",
+    "time": "18:00",
+    "description": "Culto vespertino com batismos"
+  },
+  {
+    "id": "service-3",
+    "title": "Culto de Oração",
+    "date": "2025-05-07",
+    "time": "19:30",
+    "description": "Momento de intercessão pela igreja e necessidades"
+  },
+  {
+    "id": "service-4",
+    "title": "Culto de Jovens",
+    "date": "2025-05-10",
+    "time": "19:00",
+    "description": "Tema: Identidade em Cristo"
+  },
+  {
+    "id": "service-5",
+    "title": "Culto de Domingo",
+    "date": "2025-05-11",
+    "time": "10:00",
+    "description": ""
+  },
+  {
+    "id": "service-6",
+    "title": "Culto de Domingo",
+    "date": "2025-05-11",
+    "time": "18:00",
+    "description": ""
+  },
+  {
+    "id": "service-7",
+    "title": "Culto de Oração",
+    "date": "2025-05-14",
+    "time": "19:30",
+    "description": ""
+  },
+  {
+    "id": "service-8",
+    "title": "Culto de Jovens",
+    "date": "2025-05-17",
+    "time": "19:00",
+    "description": "Noite de Louvor"
+  },
+  {
+    "id": "service-9",
+    "title": "Culto de Domingo",
+    "date": "2025-05-18",
+    "time": "10:00",
+    "description": "Dia da Família - Culto Especial"
+  },
+  {
+    "id": "service-10",
+    "title": "Culto de Domingo",
+    "date": "2025-05-18",
+    "time": "18:00",
+    "description": "Dia da Família - Continuação"
+  }
+]
