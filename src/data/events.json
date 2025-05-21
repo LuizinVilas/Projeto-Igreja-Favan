@@ -1,0 +1,47 @@
+[
+  {
+    "id": "event-1",
+    "title": "Retiro Espiritual",
+    "date": "2025-06-15",
+    "time": "08:00",
+    "location": "Acampamento Luz da Vida",
+    "description": "Um final de semana de comunhão, oração e aprendizado. Participe deste retiro espiritual com toda a igreja para renovar sua fé e fortalecer relacionamentos.",
+    "registrationUrl": "https://exemplo.com/inscricao"
+  },
+  {
+    "id": "event-2",
+    "title": "Conferência de Louvor",
+    "date": "2025-05-20",
+    "time": "19:30",
+    "location": "Auditório Principal",
+    "description": "Uma noite especial de adoração e louvor com ministros de música convidados. Venha adorar ao Senhor conosco em uma experiência única.",
+    "registrationUrl": ""
+  },
+  {
+    "id": "event-3",
+    "title": "Ação Social no Bairro",
+    "date": "2025-05-08",
+    "time": "09:00",
+    "location": "Praça Central",
+    "description": "Estaremos realizando uma ação social no bairro com distribuição de alimentos, corte de cabelo gratuito e atendimento médico básico para a comunidade.",
+    "registrationUrl": ""
+  },
+  {
+    "id": "event-4",
+    "title": "Estudo Bíblico Especial",
+    "date": "2025-05-02",
+    "time": "19:00",
+    "location": "Sala de Estudos",
+    "description": "Estudo bíblico aprofundado sobre o livro de Romanos, ministrado pelo Pastor Daniel. Traga sua Bíblia e caderno para anotações.",
+    "registrationUrl": ""
+  },
+  {
+    "id": "event-5",
+    "title": "Encontro de Casais",
+    "date": "2025-04-25",
+    "time": "19:30",
+    "location": "Salão de Eventos",
+    "description": "Uma noite especial para casais da igreja com jantar, palestra e momentos de comunhão. Invista no seu casamento participando deste encontro especial.",
+    "registrationUrl": "https://exemplo.com/casais"
+  }
+]
