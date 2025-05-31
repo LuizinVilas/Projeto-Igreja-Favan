@@ -22,7 +22,7 @@ const Home: React.FC = () => {
         subtitle="Uma igreja que ama a Deus, sua Palavra e seu povo."
         buttonText="Conheça Nossos Cultos"
         buttonLink="/cultos"
-        imageUrl="https://i.pinimg.com/736x/d3/9d/af/d39dafc3f7af6cfa3fb202e7edf42edd.jpg"
+        imageUrl="https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/public/imagens/Home-Banner.jpg"
       />
       
       {/* Welcome Section */}
@@ -47,7 +47,7 @@ const Home: React.FC = () => {
             </div>
             <div className="rounded-lg overflow-hidden shadow-md">
               <img 
-                src="https://i.pinimg.com/736x/01/b3/28/01b328c99c36a1ef11012b57f2f63287.jpg" 
+                src="https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/public/imagens/Morada-Banner.png" 
                 alt="Membros da Igreja" 
                 className="w-full h-full object-cover"
               />
@@ -117,7 +117,7 @@ const Home: React.FC = () => {
       {/* Call to Action */}
       <section 
         className="py-20 bg-cover bg-center relative"
-        style={{ backgroundImage: "url('https://i.pinimg.com/736x/c5/d2/5b/c5d25b6e7dde430f08342ff79d5fb084.jpg')" }}
+        style={{ backgroundImage: "url('https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/public/imagens/Home-Banner2.jpg')" }}
       >
         <div className="absolute inset-0 bg-primary opacity-80"></div>
         <div className="container-custom relative z-10 text-center">

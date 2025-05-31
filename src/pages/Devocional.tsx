@@ -37,7 +37,7 @@ const Devocional: React.FC = () => {
       <Hero
         title="Devocional Diário"
         subtitle="Medite na Palavra de Deus e fortaleça sua fé a cada dia."
-        imageUrl="https://images.pexels.com/photos/267559/pexels-photo-267559.jpeg"
+        imageUrl="https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/public/imagens/Devotional-Banner.png"
       />
       
       <section className="section bg-white">

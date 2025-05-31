@@ -29,7 +29,7 @@ const Cultos: React.FC = () => {
       <Hero
         title="Agenda de Cultos"
         subtitle="Conheça os horários dos nossos cultos e venha adorar conosco."
-        imageUrl="https://images.pexels.com/photos/4728841/pexels-photo-4728841.jpeg"
+        imageUrl="https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/public/imagens/Culto%20Online%20Azul.png"
       />
       
       <section className="section bg-white">
