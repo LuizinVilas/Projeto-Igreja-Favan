@@ -1,4 +1,4 @@
-# 🌿 Morada Igreja Batista
+# 🌿🏡 Morada Igreja Batista
 
 **Site institucional da Morada Igreja Batista**, desenvolvido com foco em simplicidade, acessibilidade e beleza, utilizando **cores terrosas suaves**, animações discretas e conteúdo administrável por painel.
 
