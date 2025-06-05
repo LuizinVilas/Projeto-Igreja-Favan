@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://LuizinVilas.github.io/PROJETO-IGREJA-FAVAN",
+  "homepage": "https://LuizinVilas.github.io/Projeto-Igreja-Favan",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
