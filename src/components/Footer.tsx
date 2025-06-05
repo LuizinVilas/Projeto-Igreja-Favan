@@ -44,6 +44,9 @@ const Footer: React.FC = () => {
               <li>
                 <Link to="/contato" className="hover:text-accent transition-colors">Contato</Link>
               </li>
+              <li>
+                <Link to="/admin/login" className="hover:text-accent transition-colors">Área do Administrador</Link>
+              </li>
             </ul>
           </div>
           

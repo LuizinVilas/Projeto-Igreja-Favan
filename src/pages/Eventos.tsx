@@ -34,7 +34,7 @@ const Eventos: React.FC = () => {
       <Hero
         title="Eventos"
         subtitle="Participe dos nossos eventos e cresça na fé junto com nossa comunidade."
-        imageUrl="https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/public/imagens/Events-Banner.png"
+        imageUrl="https://raw.githubusercontent.com/LuizinVilas/Projeto-Igreja-Favan/refs/heads/main/Sistema/Projeto_Morada/imagens/Events-Banner.png"
       />
       
       <section className="section bg-white">
